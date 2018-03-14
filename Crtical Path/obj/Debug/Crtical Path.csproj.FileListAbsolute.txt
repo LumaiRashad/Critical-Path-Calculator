@@ -1,0 +1,12 @@
+C:\Users\Lumy\Desktop\Graphics Projct\Crtical Path\bin\Debug\Crtical Path.exe.config
+C:\Users\Lumy\Desktop\Graphics Projct\Crtical Path\obj\Debug\Crtical Path.csprojResolveAssemblyReference.cache
+C:\Users\Lumy\Desktop\Graphics Projct\Crtical Path\bin\Debug\Crtical Path.exe
+C:\Users\Lumy\Desktop\Graphics Projct\Crtical Path\bin\Debug\Crtical Path.pdb
+C:\Users\Lumy\Desktop\Graphics Projct\Crtical Path\obj\Debug\Crtical Path.exe
+C:\Users\Lumy\Desktop\Graphics Projct\Crtical Path\obj\Debug\Crtical Path.pdb
+C:\Users\Dell\Desktop\Crtical Path\bin\Debug\Crtical Path.exe.config
+C:\Users\Dell\Desktop\Crtical Path\obj\Debug\Crtical Path.exe
+C:\Users\Dell\Desktop\Crtical Path\obj\Debug\Crtical Path.pdb
+C:\Users\Dell\Desktop\Crtical Path\bin\Debug\Crtical Path.exe
+C:\Users\Dell\Desktop\Crtical Path\bin\Debug\Crtical Path.pdb
+C:\Users\Dell\Desktop\Crtical Path\obj\Debug\Crtical Path.csprojResolveAssemblyReference.cache
